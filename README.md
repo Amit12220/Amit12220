@@ -12,13 +12,13 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🌱 I’m currently learning **Core Java and MYSQL**
+- 🌱 I’m currently learning **Core Java,MYSQL and SpringBoot**
 
-- 👨‍💻 Checkout my <a href="https://Amit12220.github.io">Portfolio</a>
+- 👨‍💻 Checkout my <a href="https://amazing-macaron-393bce.netlify.app/">Portfolio</a>
 
 - 📫 How to reach me *ajha.9614938@gmail.com*
 
-- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1VrpTkt-u_Vr0ARZ_YzHDc6sSiHb7tzmk/view?usp=sharing)
+- 📄 Know about my experiences [Resume](https://github.com/Amit12220/Resume/blob/main/Amit_kumar.pdf)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
