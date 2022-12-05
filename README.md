@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Amit Kumar</h1>
 <h3 align="center">A passionate Java Backend Developer from India</h3>
-<h6 align="center">I am passionate about technology, innovation and big challenging tasks on my to do list.</h6>
+<h6 align="center">Highly skilled and reliable java developer looking to work as a  java developer at a leading software company.</h6>
     <img
       align="right"
       src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"
