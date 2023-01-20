@@ -14,7 +14,7 @@
 
 - 🌱 I’m currently learning **Core Java,MYSQL and SpringBoot**
 
-- 👨‍💻 Checkout my <a href="https://dashing-capybara-aef8d2.netlify.app/">Portfolio</a>
+- 👨‍💻 Checkout my <a href="https://amit12220.github.io/">Portfolio</a>
 
 - 📫 How to reach me *ajha.9614938@gmail.com*
 
