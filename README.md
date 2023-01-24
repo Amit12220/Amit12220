@@ -18,7 +18,7 @@
 
 - 📫 How to reach me *ajha.9614938@gmail.com*
 
-- 📄 Know about my experiences [Resume](https://github.com/Amit12220/Resume/blob/main/Amit_kumar.pdf)
+- 📄 Know about my experiences [Resume](https://drive.google.com/drive/folders/1bYofWe5_9hz2QA_BwyCsvT1rm_ckd3gm)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
